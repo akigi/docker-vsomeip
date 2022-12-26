@@ -4,7 +4,7 @@ FROM ubuntu:18.04
 # Setup Ubuntu
 # refer to: https://www.usagi1975.com/201912212117/
 # ----------------------------
-ARG username=aki
+ARG username=vsomeip
 ARG homedir=/home/${username}
 
 # apt-get
